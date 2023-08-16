@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://aleen42.github.io/badges/src/photoshop.svg">
 
 <!--
 **chalkos-eche/chalkos-eche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
